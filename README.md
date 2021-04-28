@@ -1,3 +1,4 @@
 # Sublime-Fridrich
  ***
-![matriz](https://user-images.githubusercontent.com/82967046/116434597-edfaf980-a820-11eb-9374-352c85f79869.png)
+### License Copyright (c) 2021 Angell 
+![template github](https://user-images.githubusercontent.com/82967046/116450089-4639f780-a831-11eb-9673-4b18a47c4e91.png)
